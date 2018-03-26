@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gökhan Özertan"
+title                    : "Gökhan Özertan's Webpage"
 title_separator          : "-"
 name                     : &name "Gökhan Özertan"
 description              : &description "personal description"
