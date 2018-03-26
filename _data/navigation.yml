@@ -12,4 +12,8 @@ main:
   - title: "BOUNTARIM"
     url: /bountarim/
         
-
+ - title: "VIDEOS"
+    url: /videos/
+ 
+  - title: "TÜRKÇE"
+    url: /turkce/
